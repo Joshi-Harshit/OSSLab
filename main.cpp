@@ -20,6 +20,7 @@ class vehicle{
 int main()
 {
     vehicle v1(5);
+    vehicle v2;
 
 return 0;
 }
